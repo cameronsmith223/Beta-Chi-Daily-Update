@@ -97,7 +97,9 @@
             android:id="@+id/soberDriverButton"
             android:layout_marginTop="5dp"
             android:layout_marginBottom="0dp"
-            android:background="#bebebe"
-            android:textSize="25dp" />
+            android:textSize="25dp"
+            android:textColor="@android:color/black"
+            android:background="@drawable/btncustom"
+            android:drawingCacheQuality="high" />
     </LinearLayout>
 </RelativeLayout>
