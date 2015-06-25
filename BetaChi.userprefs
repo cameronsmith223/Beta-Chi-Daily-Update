@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="AndroidApp\AndroidApp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.ZX1F2227BJ" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AndroidApp\Resources\drawable\btncustom.xml">
+    <Files>
+      <File FileName="AndroidApp\Resources\values\Styles.xml" Line="1" Column="1" />
+      <File FileName="AndroidApp\Resources\Resource.Designer.cs" Line="1" Column="1" />
+      <File FileName="AndroidApp\Resources\drawable\btncustom.xml" Line="4" Column="46" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.AndroidApp AndroidDesignerPreferredDevice="Nexus 4" />
+</Properties>
