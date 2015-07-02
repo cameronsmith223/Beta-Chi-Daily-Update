@@ -95,7 +95,6 @@
     <AndroidResource Include="Resources\layout\AddReminderDialogFragment.axml" />
     <AndroidResource Include="Resources\layout\SetMealsDialogFragment.axml" />
     <AndroidResource Include="Resources\drawable\btncustom.xml" />
-    <AndroidResource Include="Resources\drawable\soberdankmemes.9.png" />
     <AndroidResource Include="Resources\drawable\soberpressed.9.png" />
   </ItemGroup>
   <ItemGroup>
@@ -113,6 +112,7 @@
     </AndroidResource>
     <AndroidResource Include="Resources\menu\HomeMenu.xml" />
     <AndroidResource Include="Resources\drawable\splash.png" />
+    <AndroidResource Include="Resources\drawable\soberReg.9.png" />
   </ItemGroup>
   <ItemGroup>
     <XamarinComponentReference Include="azure-mobile-services">

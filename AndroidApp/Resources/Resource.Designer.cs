@@ -70,10 +70,10 @@ namespace AndroidApp
 			public const int monoandroidsplash = 2130837506;
 			
 			// aapt resource value: 0x7f020003
-			public const int soberdankmemes = 2130837507;
+			public const int soberpressed = 2130837507;
 			
 			// aapt resource value: 0x7f020004
-			public const int soberpressed = 2130837508;
+			public const int soberreg = 2130837508;
 			
 			// aapt resource value: 0x7f020005
 			public const int splash = 2130837509;
